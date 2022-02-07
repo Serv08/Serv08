@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Serv08
-- 👀 I’m interested in Math, Science, Technology, Arts, Philosophy, and Literature. Also Python, C#, HTML, CSS, Java, C++.
+- 👀 I’m interested in Math, Science, Technology, Arts, Philosophy, Literature and Music.
+- I'm currently taking Computer Engineerign course.
 - 🌱 I’m currently learning Python and C#.
 
 <!---
