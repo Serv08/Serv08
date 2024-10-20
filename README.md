@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data engineering tools.**
 
-- 📝 I write articles on [whiskee.netlify.app/](whiskee.netlify.app/)
+- 📝 I write articles on [Whiskee](https://whiskee.netlify.app/)
 
 - ⚡ Fun fact **My favorite microorganism is E. coli.**
 
