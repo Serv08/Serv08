@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Servin</h1>
 <h3 align="center">A Computer Engineering fresh graduate</h3>
 
-- 🔭 I’m currently working on **a mobile app using Kivy and Python.**
+- 🔭 I’m currently working on: **a mobile app using Kivy and Python.**
 
-- 🌱 I’m currently learning **data engineering tools.**
+- 🌱 I’m currently learning: **data engineering tools.**
 
-- 📝 I write articles on [whiskee.netlify.app/](https://whiskee.netlify.app/)
+<!--- - 📝 I write articles on [whiskee.netlify.app/](https://whiskee.netlify.app/) -->
 
-- ⚡ Fun fact **My favorite microorganism is E. coli.**
+- ⚡ Fun fact: **My favorite microorganism is E. coli.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
